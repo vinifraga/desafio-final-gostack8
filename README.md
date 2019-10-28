@@ -10,6 +10,8 @@ Código referente à entrega do desafio final do Bootcamp GoStack 8.
 - mobile run: yarn android
 - mobile start: yarn devStart
 
+No código mobile é necessário trocar o IP presente nos arquivos [services/api.js](https://github.com/vinifraga/desafio-final-gostack8/blob/master/mobile/src/services/api.js/) e [components/Meetup/index.js](https://github.com/vinifraga/desafio-final-gostack8/blob/master/mobile/src/components/Meetup/index.js) pelo da máquina que está rodando o código.
+
 ## Especificações do ambiente de desenvolvimento
 
 - node: 10.16.3
