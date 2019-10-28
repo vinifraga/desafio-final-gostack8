@@ -1,6 +1,6 @@
-# Desafio 10. Mobile do Meetapp
+# Desafio 10. Mobile do Meetapp (Android)
 
-Código desenvolvido a partir do desafio 10 do conteúdo de React Native do GoStack 8 da Rocketseat.
+Código desenvolvido a partir do desafio 10 do conteúdo de React Native do GoStack 8 da Rocketseat. Apenas para plataforma Android
 
 ## Resumo
 
