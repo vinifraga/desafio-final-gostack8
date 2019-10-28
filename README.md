@@ -21,6 +21,6 @@ docker: 19.03.4
 SO: Ubuntu 18.04
 kernel: Linux 4.14.143
 
-## Plataforma aplicativo
+## Plataforma do aplicativo
 
 Por não ter acesso à um MAC, o código mobile foi desenvolvido para Android e testado apenas nessa plataforma.
